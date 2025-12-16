@@ -1,0 +1,5 @@
+{
+  "name": "AutoFolio",
+  "description": "A dark-themed, data-driven portfolio that automatically builds itself from your uploaded CV using Gemini AI.",
+  "requestFramePermissions": []
+}
